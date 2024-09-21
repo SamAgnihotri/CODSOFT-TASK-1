@@ -13,5 +13,5 @@ about individual passengers, such as their age, gender, ticket
 class, fare, cabin, and whether or not they survived.
 OBECTIVE: In this task i'm useing the python language to complete this task by using so many libraries like pandas etc.
 
-OVERVIWE OF THE PROJECT: ![Screenshot (137)](https://github.com/user-attachments/assets/6e7e204d-09a4-4020-b557-62b67c3201df)
+OVERVIWE OF THE PROJECT: ![Screenshot (135)](https://github.com/user-attachments/assets/a413266d-eb4f-4909-813a-0dcfd12bdd52)
 
